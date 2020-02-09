@@ -1,3 +1,4 @@
+
 int stepPin  = 5;                  // Stepstick STEP pin to Arduino digital pin 5
 int dirPin   = 6;                  // Stepstick DIR pin to Arduino digital  pin 6
 
